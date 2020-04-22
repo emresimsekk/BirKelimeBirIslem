@@ -1,0 +1,12 @@
+C:\Users\Emre\source\repos\word\word\obj\Debug\word.page.select.resources
+C:\Users\Emre\source\repos\word\word\obj\Debug\word.page.wordMySelf.resources
+C:\Users\Emre\source\repos\word\word\obj\Debug\word.page.wordRandom.resources
+C:\Users\Emre\source\repos\word\word\obj\Debug\word.Properties.Resources.resources
+C:\Users\Emre\source\repos\word\word\obj\Debug\word.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\word\word\bin\Debug\word.exe.config
+C:\Users\Emre\source\repos\word\word\bin\Debug\word.exe
+C:\Users\Emre\source\repos\word\word\bin\Debug\word.pdb
+C:\Users\Emre\source\repos\word\word\obj\Debug\word.exe
+C:\Users\Emre\source\repos\word\word\obj\Debug\word.pdb
+C:\Users\Emre\source\repos\word\word\obj\Debug\word.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\word\word\obj\Debug\word.page.randomNumber.resources
